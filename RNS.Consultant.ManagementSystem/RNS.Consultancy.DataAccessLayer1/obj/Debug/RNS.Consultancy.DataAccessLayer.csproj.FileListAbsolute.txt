@@ -1,0 +1,15 @@
+E:\GithubLocal\RNS Project\RNSConsultantManagementSystem\RNS.Consultant.ManagementSystem\RNS.Consultancy.DataAccessLayer1\bin\Debug\RNS.Consultancy.DataAccessLayer1.dll
+E:\GithubLocal\RNS Project\RNSConsultantManagementSystem\RNS.Consultant.ManagementSystem\RNS.Consultancy.DataAccessLayer1\bin\Debug\RNS.Consultancy.DataAccessLayer1.pdb
+E:\GithubLocal\RNS Project\RNSConsultantManagementSystem\RNS.Consultant.ManagementSystem\RNS.Consultancy.DataAccessLayer1\bin\Debug\EntityFramework.dll
+E:\GithubLocal\RNS Project\RNSConsultantManagementSystem\RNS.Consultant.ManagementSystem\RNS.Consultancy.DataAccessLayer1\bin\Debug\EntityFramework.SqlServer.dll
+E:\GithubLocal\RNS Project\RNSConsultantManagementSystem\RNS.Consultant.ManagementSystem\RNS.Consultancy.DataAccessLayer1\bin\Debug\RNS.Common.Infrastrcture.dll
+E:\GithubLocal\RNS Project\RNSConsultantManagementSystem\RNS.Consultant.ManagementSystem\RNS.Consultancy.DataAccessLayer1\bin\Debug\RNS.Consultancy.Models.dll
+E:\GithubLocal\RNS Project\RNSConsultantManagementSystem\RNS.Consultant.ManagementSystem\RNS.Consultancy.DataAccessLayer1\bin\Debug\RNS.Common.Infrastrcture.pdb
+E:\GithubLocal\RNS Project\RNSConsultantManagementSystem\RNS.Consultant.ManagementSystem\RNS.Consultancy.DataAccessLayer1\bin\Debug\RNS.Consultancy.Models.pdb
+E:\GithubLocal\RNS Project\RNSConsultantManagementSystem\RNS.Consultant.ManagementSystem\RNS.Consultancy.DataAccessLayer1\bin\Debug\EntityFramework.xml
+E:\GithubLocal\RNS Project\RNSConsultantManagementSystem\RNS.Consultant.ManagementSystem\RNS.Consultancy.DataAccessLayer1\bin\Debug\EntityFramework.SqlServer.xml
+E:\GithubLocal\RNS Project\RNSConsultantManagementSystem\RNS.Consultant.ManagementSystem\RNS.Consultancy.DataAccessLayer1\obj\Debug\RNS.Consultancy.DataAccessLayer.csprojResolveAssemblyReference.cache
+E:\GithubLocal\RNS Project\RNSConsultantManagementSystem\RNS.Consultant.ManagementSystem\RNS.Consultancy.DataAccessLayer1\obj\Debug\RNS.Consultancy.DataAccessLayer1.dll
+E:\GithubLocal\RNS Project\RNSConsultantManagementSystem\RNS.Consultant.ManagementSystem\RNS.Consultancy.DataAccessLayer1\obj\Debug\RNS.Consultancy.DataAccessLayer1.pdb
+E:\GithubLocal\RNS Project\RNSConsultantManagementSystem\RNS.Consultant.ManagementSystem\RNS.Consultancy.DataAccessLayer1\obj\Debug\RNS.Consultancy.DataAccessLayer.Migration1000.resources
+E:\GithubLocal\RNS Project\RNSConsultantManagementSystem\RNS.Consultant.ManagementSystem\RNS.Consultancy.DataAccessLayer1\obj\Debug\RNS.Consultancy.DataAccessLayer.csproj.GenerateResource.Cache

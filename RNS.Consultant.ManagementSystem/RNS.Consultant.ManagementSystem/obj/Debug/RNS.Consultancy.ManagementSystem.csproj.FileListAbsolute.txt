@@ -1,0 +1,16 @@
+E:\GithubLocal\RNS Project\RNSConsultantManagementSystem\RNS.Consultant.ManagementSystem\RNS.Consultant.ManagementSystem\bin\Debug\RNS.Consultant.ManagementSystem.exe.config
+E:\GithubLocal\RNS Project\RNSConsultantManagementSystem\RNS.Consultant.ManagementSystem\RNS.Consultant.ManagementSystem\bin\Debug\RNS.Consultant.ManagementSystem.exe
+E:\GithubLocal\RNS Project\RNSConsultantManagementSystem\RNS.Consultant.ManagementSystem\RNS.Consultant.ManagementSystem\bin\Debug\RNS.Consultant.ManagementSystem.pdb
+E:\GithubLocal\RNS Project\RNSConsultantManagementSystem\RNS.Consultant.ManagementSystem\RNS.Consultant.ManagementSystem\bin\Debug\RNS.Common.Infrastrcture.dll
+E:\GithubLocal\RNS Project\RNSConsultantManagementSystem\RNS.Consultant.ManagementSystem\RNS.Consultant.ManagementSystem\bin\Debug\RNS.Consultancy.Models.dll
+E:\GithubLocal\RNS Project\RNSConsultantManagementSystem\RNS.Consultant.ManagementSystem\RNS.Consultant.ManagementSystem\bin\Debug\RNS.Common.Infrastrcture.pdb
+E:\GithubLocal\RNS Project\RNSConsultantManagementSystem\RNS.Consultant.ManagementSystem\RNS.Consultant.ManagementSystem\bin\Debug\RNS.Consultancy.Models.pdb
+E:\GithubLocal\RNS Project\RNSConsultantManagementSystem\RNS.Consultant.ManagementSystem\RNS.Consultant.ManagementSystem\obj\Debug\RNS.Consultancy.ManagementSystem.csprojResolveAssemblyReference.cache
+E:\GithubLocal\RNS Project\RNSConsultantManagementSystem\RNS.Consultant.ManagementSystem\RNS.Consultant.ManagementSystem\obj\Debug\RNS.Consultant.ManagementSystem.Properties.Resources.resources
+E:\GithubLocal\RNS Project\RNSConsultantManagementSystem\RNS.Consultant.ManagementSystem\RNS.Consultant.ManagementSystem\obj\Debug\RNS.Consultant.ManagementSystem.UI_Forms.DisplayProfile.resources
+E:\GithubLocal\RNS Project\RNSConsultantManagementSystem\RNS.Consultant.ManagementSystem\RNS.Consultant.ManagementSystem\obj\Debug\RNS.Consultant.ManagementSystem.UIForms.EmployeeManagement.EmployeeRegistration.resources
+E:\GithubLocal\RNS Project\RNSConsultantManagementSystem\RNS.Consultant.ManagementSystem\RNS.Consultant.ManagementSystem\obj\Debug\RNS.Consultant.ManagementSystem.UI_Forms.RNSMDIParentForm.resources
+E:\GithubLocal\RNS Project\RNSConsultantManagementSystem\RNS.Consultant.ManagementSystem\RNS.Consultant.ManagementSystem\obj\Debug\RNS.Consultant.ManagementSystem.UI_Forms.Test.resources
+E:\GithubLocal\RNS Project\RNSConsultantManagementSystem\RNS.Consultant.ManagementSystem\RNS.Consultant.ManagementSystem\obj\Debug\RNS.Consultancy.ManagementSystem.csproj.GenerateResource.Cache
+E:\GithubLocal\RNS Project\RNSConsultantManagementSystem\RNS.Consultant.ManagementSystem\RNS.Consultant.ManagementSystem\obj\Debug\RNS.Consultant.ManagementSystem.exe
+E:\GithubLocal\RNS Project\RNSConsultantManagementSystem\RNS.Consultant.ManagementSystem\RNS.Consultant.ManagementSystem\obj\Debug\RNS.Consultant.ManagementSystem.pdb

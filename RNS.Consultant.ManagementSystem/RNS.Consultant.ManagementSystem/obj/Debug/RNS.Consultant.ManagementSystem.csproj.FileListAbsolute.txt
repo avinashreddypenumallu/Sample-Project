@@ -1,0 +1,14 @@
+E:\GithubLocal\RNS Project\RNSConsultantManagementSystem\RNS.Consultant.ManagementSystem\RNS.Consultant.ManagementSystem\bin\Debug\RNS.Consultant.ManagementSystem.exe.config
+E:\GithubLocal\RNS Project\RNSConsultantManagementSystem\RNS.Consultant.ManagementSystem\RNS.Consultant.ManagementSystem\bin\Debug\RNS.Consultant.ManagementSystem.exe
+E:\GithubLocal\RNS Project\RNSConsultantManagementSystem\RNS.Consultant.ManagementSystem\RNS.Consultant.ManagementSystem\bin\Debug\RNS.Consultant.ManagementSystem.pdb
+E:\GithubLocal\RNS Project\RNSConsultantManagementSystem\RNS.Consultant.ManagementSystem\RNS.Consultant.ManagementSystem\obj\Debug\RNS.Consultant.ManagementSystem.csprojResolveAssemblyReference.cache
+E:\GithubLocal\RNS Project\RNSConsultantManagementSystem\RNS.Consultant.ManagementSystem\RNS.Consultant.ManagementSystem\obj\Debug\RNS.Consultant.ManagementSystem.EducationalDetails.resources
+E:\GithubLocal\RNS Project\RNSConsultantManagementSystem\RNS.Consultant.ManagementSystem\RNS.Consultant.ManagementSystem\obj\Debug\RNS.Consultant.ManagementSystem.PersonalDetails.resources
+E:\GithubLocal\RNS Project\RNSConsultantManagementSystem\RNS.Consultant.ManagementSystem\RNS.Consultant.ManagementSystem\obj\Debug\RNS.Consultant.ManagementSystem.Properties.Resources.resources
+E:\GithubLocal\RNS Project\RNSConsultantManagementSystem\RNS.Consultant.ManagementSystem\RNS.Consultant.ManagementSystem\obj\Debug\RNS.Consultant.ManagementSystem.Test.resources
+E:\GithubLocal\RNS Project\RNSConsultantManagementSystem\RNS.Consultant.ManagementSystem\RNS.Consultant.ManagementSystem\obj\Debug\RNS.Consultant.ManagementSystem.WorkExperience.resources
+E:\GithubLocal\RNS Project\RNSConsultantManagementSystem\RNS.Consultant.ManagementSystem\RNS.Consultant.ManagementSystem\obj\Debug\RNS.Consultant.ManagementSystem.csproj.GenerateResource.Cache
+E:\GithubLocal\RNS Project\RNSConsultantManagementSystem\RNS.Consultant.ManagementSystem\RNS.Consultant.ManagementSystem\obj\Debug\RNS.Consultant.ManagementSystem.exe
+E:\GithubLocal\RNS Project\RNSConsultantManagementSystem\RNS.Consultant.ManagementSystem\RNS.Consultant.ManagementSystem\obj\Debug\RNS.Consultant.ManagementSystem.pdb
+E:\GithubLocal\RNS Project\RNSConsultantManagementSystem\RNS.Consultant.ManagementSystem\RNS.Consultant.ManagementSystem\bin\Debug\RNS.Consultancy.Models.dll
+E:\GithubLocal\RNS Project\RNSConsultantManagementSystem\RNS.Consultant.ManagementSystem\RNS.Consultant.ManagementSystem\bin\Debug\RNS.Consultancy.Models.pdb
